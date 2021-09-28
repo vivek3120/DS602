@@ -1,1 +1,2 @@
-## This repository contains all assignments of Data-602.
+# DATA-602
+### This repository contains all assignments of Data-602.
