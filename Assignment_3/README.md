@@ -1,6 +1,6 @@
 #### This assignmnet was based on choosing a random data, where personally I chose Uber data for analysis. Thhis data consists of many columns which include the whole info about the ride ie: starting point, date, time , location dropped, reason for travel, etc.
 #### The questions or queries on which visualization was performed is:
-1.Comparision of reason of traveling through graph.
+1.Comparision of reason of traveling through graph. /n
 2.COMPARING THE NUMBER OF ROUND TRIPS vs SINGLE TRIPS.
 3.Ploting the count of purpose of booking the drive.
 4.Graph for comparing the ride distance in business and personal category.
