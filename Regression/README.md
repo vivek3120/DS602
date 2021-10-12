@@ -1,1 +1,1 @@
-
+## UBER RIDES - This dataset includes the location, type of ride, info regaring rides like date, time, source, reason, etc. In this assignment we used linear regression where I put distance and price on x and y axis where distance was independent and price was dependent variable. And also did Ridge and Lasso regression.
